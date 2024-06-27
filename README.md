@@ -1,5 +1,5 @@
-Movies App:
+**Movies App:**
 
 npm install
 
-**Run:**npm run start --prefix client
+**Run:** npm run start --prefix client
